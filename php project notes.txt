@@ -1,0 +1,23 @@
+>first of download ready-made template.
+
+>then after convert into php . 
+
+>separate the header and footer section.
+
+>in header section put link of like bootstrap , css cdn and javascript link.
+
+> in footer section include all the javascript link.
+
+> in index, header , footer all the change the path of absolate folder.
+
+>after that all pages like, index, blog , contact add the header and footer via include_once function.
+
+>in header section anchor tag remove link from .html and add .php file.
+
+>make admin panel as per the website requirement.
+
+
+
+> MVC architecture - explain // model view controller.
+
+> 
